@@ -1,4 +1,5 @@
 class Access
+  
   public
   def method1
     puts "This is method 1"
@@ -13,7 +14,7 @@ class Access
   def method3
     puts "This is method 3"
   end
-
+  
 end
 
 obj1=Access.new
