@@ -1,5 +1,6 @@
 class Access
   
+  
   public
   def method1
     puts "This is method 1"
