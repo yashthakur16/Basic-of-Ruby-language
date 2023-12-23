@@ -17,5 +17,6 @@ class Access
   
 end
 
+
 obj1=Access.new
 obj1.method1
